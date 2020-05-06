@@ -1,0 +1,25 @@
+-----Tringle123LoopImpl-----
+
+intsの x_(N,1)=1
+*****test*****
+ints1000の x_(N,1)=0
+ints2の x_(N,1)=2
+intsRandomNの x_(N,1)=1
+処理に要した時間1522ミリ秒
+
+
+-----Tringle123Impl-----
+
+intsの x_(N,1)=3
+*****test*****
+ints1000の x_(N,1)=3
+ints2の x_(N,1)=3
+intsRandomNの x_(N,1)=3
+処理に要した時間10922ミリ秒
+
+intsの x_(N,1)=1
+*****test*****
+ints1000の x_(N,1)=0
+ints2の x_(N,1)=0
+intsRandomNの x_(N,1)=1
+処理に要した時間10990ミリ秒
